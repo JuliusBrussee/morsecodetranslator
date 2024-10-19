@@ -1,6 +1,6 @@
 // Usage
-let englishText = "this is a secret message"
-let secretMessage = ".... --- .-- -.. -.--   .--. .- .-. - -. . .-."
+let englishText = "this is a secret message" //Insert any string
+let secretMessage = ".... --- .-- -.. -.--   .--. .- .-. - -. . .-." //Insert any morse code sequence
 
 
 func encodeToMorse(englishText: String) -> String {
